@@ -1,6 +1,6 @@
 ### Este es un paquete de prueba para aprender a subir paquetes a TestPyPI.
 
-![https://i.imgur.com/bNGurz8.png](https://i.imgur.com/bNGurz8.png)
+<img src="https://i.imgur.com/bNGurz8.png" alt="PyPI logo" width="300" height="200">
 
 > Instalamos las librerias para construir y cargar el paquete.
 
