@@ -40,6 +40,11 @@ nvim ~/.pypirc
 ```bash
 twine upload --repository testpypi dist/*
 ```
+> Para subir el paquete directo a PyPI.
+
+```bash
+twine upload dist/*
+```
 
 > Descargamos el paquete de TestPyPI.
 
