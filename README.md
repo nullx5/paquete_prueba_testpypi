@@ -1,5 +1,7 @@
 ### Este es un paquete de prueba para aprender a subir paquetes a TestPyPI.
 
+![https://i.imgur.com/bNGurz8.png](https://i.imgur.com/bNGurz8.png)
+
 > Instalamos las librerias para construir y cargar el paquete.
 
 ```bash
