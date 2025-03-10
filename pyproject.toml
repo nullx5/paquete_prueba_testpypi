@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paquete_prueba_bl3ssedc0de"  
+version = "0.1.0"
+authors = [
+    { name = "bl3ssedc0de", email = "johndoe@gmail.com" }
+]
+description = "Un paquete de prueba para TestPyPI"
+readme = "README.md"
+requires-python = ">=3.6"
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[tool.setuptools]
+packages = ["paquete_prueba_bl3ssedc0de"]
+
+[project.urls]
+Homepage = "https://github.com/nullx5/paquete_prueba_testpypi"  
+
