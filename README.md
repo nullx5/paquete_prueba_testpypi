@@ -2,6 +2,8 @@
 
 <img src="https://i.imgur.com/bNGurz8.png" alt="PyPI logo" width="300" height="200">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJ5ZeE_8zLc?si=h60MsmzBWxcfjzAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 > Instalamos las librerias para construir y cargar el paquete.
 
 ```bash
