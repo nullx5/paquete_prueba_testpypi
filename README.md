@@ -49,7 +49,7 @@ twine upload dist/*
 > Descargamos el paquete de TestPyPI.
 
 ```
-pip install -i https://test.pypi.org/simple/ paquete-prueba-bl3ssedc0de==0.1.0
+pip install -i https://test.pypi.org/simple/ paquete-prueba-bl3ssedc0de
 ```
 
 > Ejecutamos el paquete.
